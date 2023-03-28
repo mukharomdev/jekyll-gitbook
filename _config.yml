@@ -24,7 +24,7 @@ toc:
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     /assets/gitbook/images/favicon.ico
 
-# markdown render engine.
+## markdown render engine.
 markdown:         kramdown
 kramdown:
   auto_ids:               true
